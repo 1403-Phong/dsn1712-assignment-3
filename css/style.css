@@ -55,7 +55,7 @@ header {
 
 #hero h1 {
     color: #fff;
-    justify-items: space-around;
+    justify-content: space-around;
     background-color: rgba(0, 0, 0, .5);
     text-shadow: 2px 2px 6px #000;
     padding: 30px ;
@@ -75,7 +75,7 @@ img {
 }
 
 #services h2 {
-   max-width: auto;
+   width: auto;
    display: flex;
    justify-content: center;
    text-align: center;
