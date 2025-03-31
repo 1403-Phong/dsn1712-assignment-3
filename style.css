@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: 940px;
+    margin: auto;
+}
+
+header .wrapper {
+    display: flex;
+    max-width: 940px;
+}
