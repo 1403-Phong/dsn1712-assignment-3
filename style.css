@@ -4,8 +4,9 @@
 
 .wrapper {
     max-width: 940px;
-    margin: auto;
+    margin: 0 auto;
 }
+
 header .wrapper {
     display: flex;
     background-color: #000;
@@ -22,3 +23,4 @@ header .wrapper {
     display: flex;
     flex-direction: row;
 }
+
